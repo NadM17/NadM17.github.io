@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Merriweather:wght@900&display=swap');
+
+body {
+font-family: "Courier";
+background-image:url("topography.png");
+font-size: larger;
+}
+
+h1, h2, h3, h4, h5, h6 {font-family:"Merriweather"}
+
+header {
+    background-color: #333333;
+    top: 0px;
+    position: sticky;
+}
+
+main {
+    padding: 10%;
+}
+
+.center {
+position: absolute;
+left: 50%;
+}
+
+a {
+    color:#ff0099;
+}
+
+#subtitle {
+    color: #ff0099;
+}
+
+nav {
+    float: right;
+}
+
+
+#img {
+    padding-left: 10%;
+    margin-top: 4px;
+}
+
+#Wiki {
+    text-align: center;
+    margin-top: 100px;
+}
